@@ -24,7 +24,7 @@ import org.codehaus.jackson.annotate.JsonIgnoreProperties;
  * @author fatalin
  * 
  */
-
+/Comment/
 @Entity
 @Table(name = "article")
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
